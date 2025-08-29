@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../readrecall"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../read-recall-backend"
+		}
+	]
+}
